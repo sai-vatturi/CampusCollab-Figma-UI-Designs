@@ -7,3 +7,7 @@
 2. Singup Page
 
 <img width="946" alt="Screenshot 2024-04-17 at 10 53 33 PM" src="https://github.com/sai-vatturi/CampusCollab-Figma-UI-Designs/assets/115538210/e86bb485-890b-46bd-9bd4-5825e29ce04f">
+
+3. Home Page
+
+<img width="946" alt="Screenshot 2024-04-18 at 9 50 40 PM" src="https://github.com/sai-vatturi/CampusCollab-Figma-UI-Designs/assets/115538210/283067bf-64ea-4994-a84d-c6c8e5098970">
