@@ -11,3 +11,8 @@
 3. Home Page
 
 <img width="946" alt="Screenshot 2024-04-18 at 9 50 40 PM" src="https://github.com/sai-vatturi/CampusCollab-Figma-UI-Designs/assets/115538210/283067bf-64ea-4994-a84d-c6c8e5098970">
+
+4. Materials Page
+   
+![04_MaterialsViewDownloadPage](https://github.com/sai-vatturi/CampusCollab-Figma-UI-Designs/assets/115538210/fb38c829-c955-4337-8bbe-0996653aa48f)
+
