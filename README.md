@@ -23,3 +23,8 @@
 6. User Guide
 
 ![06_UserGuide](https://github.com/sai-vatturi/CampusCollab-Figma-UI-Designs/assets/115538210/4247a5dd-6538-4240-97bf-76c915ec782a)
+
+7. Contact Page
+
+![07_ContactPage](https://github.com/sai-vatturi/CampusCollab-Figma-UI-Designs/assets/115538210/498a72c9-1887-4140-98b7-3ac06c308a3d)
+
