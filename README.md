@@ -28,3 +28,7 @@
 
 ![07_ContactPage](https://github.com/sai-vatturi/CampusCollab-Figma-UI-Designs/assets/115538210/498a72c9-1887-4140-98b7-3ac06c308a3d)
 
+8. Error Page
+
+[08_404ErrorPage.pdf](https://github.com/sai-vatturi/CampusCollab-Figma-UI-Designs/files/15081007/08_404ErrorPage.pdf)
+
